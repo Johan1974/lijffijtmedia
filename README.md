@@ -1,48 +1,66 @@
-# 👋 Welkom bij Lijffijt Media
+# lijffijtmedia - Python Freelance Web Scraping & Automation
 
-**Lijffijt Media** is mijn freelance-initiatief waarin ik Python inzet voor web scraping, data-automatisering en slimme tools die processen versnellen.
-
----
-
-## 💼 Over Mij
-
-Ik ben Johan, freelance Python developer met een passie voor het bouwen van praktische oplossingen.  
-Mijn focus ligt op:
-
-- Web scraping en data-extractie
-- Data cleaning en verwerking
-- Automatisering van repetitieve taken
-- Het leveren van betrouwbare en onderhoudbare code
-
-Door mijn werk open source te delen, wil ik transparantie bieden en mijn groei als developer laten zien. Ik lever graag maatwerkoplossingen die aansluiten bij de behoeften van opdrachtgevers.
+Welcome to **lijffijtmedia**, your go-to freelance service for reliable and efficient Python-based web scraping, data extraction, and automation solutions.
 
 ---
 
-## 🧰 Projecten en Voorbeelden
+## 🚀 What I Do
 
-Deze repository bevat voorbeelden van mijn werk en prototypes die ik inzet als basis voor klantopdrachten. Elk project staat in een eigen map met uitleg en gebruiksinstructies.
-
-| Project               | Beschrijving                                  | Status  |
-|----------------------|-----------------------------------------------|---------|
-| 📘 Book Scraper       | Web scraper voor `books.toscrape.com`          | ✅ Voltooid |
-| 💼 Job Finder         | Vacature scraper voor diverse sites             | 🔄 In ontwikkeling |
-| 💱 Currency AutoSave  | Automatische dagelijkse opslaan van wisselkoersen | ⏳ Gepland |
+- Custom web scraping scripts to extract data from websites for business intelligence, lead generation, market research, and more  
+- Data cleaning, transformation, and export to CSV, Excel, JSON, or databases  
+- Automation of repetitive online tasks to save time and increase productivity  
+- API integration and data aggregation  
+- Consulting on best practices for data scraping, compliance, and ethical considerations  
 
 ---
 
-## 🔗 Meer over mij
+## 📂 Portfolio Highlights
 
-- Website: [lijffijtmedia.com](https://lijffijtmedia.com)  
-- GitHub: [github.com/lijffijtmedia](https://github.com/lijffijtmedia)  
+Below are sample projects demonstrating my skills in Python and web scraping:
+
+- **Book Store Scraper**: Extracted book data including titles, prices, and ratings from a demo website.  
+- **Job Listings Scraper**: Automated extraction of job offers from multiple pages with filters and error handling.  
+- **Currency Rates Automator**: Daily script fetching and storing currency exchange rates for financial analysis.
+
+*More projects coming soon — stay tuned!*
 
 ---
 
-## 🤝 Interesse in samenwerking?
+## 🌐 Why Choose lijffijtmedia?
 
-Ik help graag met het ontwikkelen van web scraping tools, data-automatisering en gerelateerde projecten. Neem contact op via mijn website of open een issue hier op GitHub.
+- Clean, maintainable, and well-documented Python code  
+- Focus on accuracy, reliability, and compliance with website terms of service  
+- Fast turnaround time and ongoing support  
+- Flexible freelance collaboration tailored to your needs  
 
 ---
 
-## 🧾 Licentie
+## 📈 Keywords / SEO
 
-Deze code is beschikbaar onder de MIT License. Gebruik en aanpassing zijn toegestaan met naamsvermelding.
+Python freelance web scraping, Python data extraction, web scraper developer, automation scripts, data cleaning Python, freelance data scraping, web crawler Python, custom scraping solutions, data automation freelancer.
+
+---
+
+## 📞 Get in Touch
+
+Interested in custom Python scripts or web scraping projects? Reach out via:
+
+- Email: [your.email@example.com]  
+- LinkedIn: [linkedin.com/in/yourprofile]  
+- Fiverr / Upwork: [your profile link]
+
+---
+
+## 📌 Notes
+
+This repository contains example scripts and templates for demonstration purposes only. All code is open source under the MIT License.
+
+---
+
+*Happy scraping!*
+
+---
+
+## License
+
+MIT License © 2025 lijffijtmedia
